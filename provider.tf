@@ -8,14 +8,14 @@ terraform {
 }
 
 provider "google" {
-  project     = "avian-amulet-378416"
-  region      = "us-central1"
+  project     = "mcitmark"
+  region      = "northamerica-northeast1"
 }
 
 
 terraform {
   cloud {
-    organization = "sami123123123"
+    organization = "mook 2017"
 
     workspaces {
       name = "mobility-base-storage"
