@@ -15,10 +15,10 @@ provider "google" {
 
 terraform {
   cloud {
-    organization = "mook 2017"
+    organization = "mook2017"
 
     workspaces {
-      name = "mobility-base-storage"
+      name = "repomook"
     }
   }
 }
