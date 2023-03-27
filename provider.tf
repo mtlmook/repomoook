@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project     = "learning project"
+  project     = "learning-project-381703"
   region      = "northamerica-northeast1"
 }
 
