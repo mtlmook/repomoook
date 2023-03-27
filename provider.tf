@@ -9,7 +9,7 @@ terraform {
 
 provider "google" {
   project     = "learning-project-381703"
-  region      = "us-central1"
+  region      = "northamerica-northeast"
 }
 
 
